@@ -1,5 +1,5 @@
 ## about
-**veil** is OSINT tool that checks whether a site is blocked in a country, straight from your terminal, developed by [maher](https://github.com/lastfpvp).
+**veil** is OSINT tool that checks whether a site is blocked in a country, straight from your terminal, developed by [n2aoi](https://github.com/n2aoi).
 
 the idea is simple: type a site, get a verdict, see which countries show blocking signal, page through the full picture if you want it.
 
@@ -61,9 +61,9 @@ or use `pipx` if your system enforces PEP 668
 then run `veil` as usual.
 
 ## star history
-<a href="https://www.star-history.com/?repos=neroki194%2Fveil-cli&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=n2aoi%2Fveil-cli&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=neroki194/veil-cli&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=n2aoi/veil-cli&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=neroki194/veil-cli&type=date&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=neroki194/veil-cli&type=date&legend=top-left" />
  </picture>
